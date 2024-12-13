@@ -1,2 +1,7 @@
 
-G	java:S106	"+Replace this use of System.out by a logger.(»ÇŠš8‚ìºç»2
+G	java:S106"+Replace this use of System.out by a logger.(ş¥‰8ÀŠàé»2
+L	java:S106"+Replace this use of System.out by a logger.(¬×‰˜ıÿÿÿÿ8ÂŠàé»2
+F	java:S106("+Replace this use of System.out by a logger.(üÛé8ÍŠàé»2
+G	java:S106."+Replace this use of System.out by a logger.(ÃŞˆÈ8ÍŠàé»2
+G	java:S106@"+Replace this use of System.out by a logger.(Í‡¢‡8ÎŠàé»2
+G	java:S106a"+Replace this use of System.out by a logger.(æŒÊÿ8ÎŠàé»2
